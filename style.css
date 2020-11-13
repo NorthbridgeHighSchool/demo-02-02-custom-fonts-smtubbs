@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=PT+Sans&family=Roboto+Condensed&display=swap');
+html{
+  background-color: #912d2df8;
+}
+h1{
+  font-family: "Lato";
+  font-size: 30pt;
+}
+h2{
+  font-family: "Roboto Condensed";
+}
+p{
+  font-family: "PT Sans";
+}
