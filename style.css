@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=PT+Sans&family=Roboto+Condensed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@531&family=Source+Sans+Pro&display=swap');
 
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Proza+Libre&display=swap');
@@ -17,7 +16,6 @@ h2{
   font-family: "Playfair Display", serif;
   color: RGB(211, 169, 153);
   font-size: 22pt;
-  font-style: underline;
 }
 p{
   font-family: "Proza Libre", sans-serif;
