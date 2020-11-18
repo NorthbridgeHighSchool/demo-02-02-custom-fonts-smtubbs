@@ -1,14 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=PT+Sans&family=Roboto+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@531&family=Source+Sans+Pro&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Proza+Libre&display=swap');
+
 html{
-  background-color: #912d2df8;
+  background-color: RGB(233, 230, 225);
+  border: 6px solid RGB(165, 174, 183);
 }
 h1{
-  font-family: "Lato";
-  font-size: 30pt;
+  font-family: "Cormorant Garamond", serif;
+  font-size: 40pt;
+  color: RGB(33, 29, 30);
+  font-weight: 600;
 }
 h2{
-  font-family: "Roboto Condensed";
+  font-family: "Playfair Display", serif;
+  color: RGB(211, 169, 153);
+  font-size: 22pt;
+  font-style: underline;
 }
 p{
-  font-family: "PT Sans";
+  font-family: "Proza Libre", sans-serif;
+  color:RGB(33, 29, 30);
 }
