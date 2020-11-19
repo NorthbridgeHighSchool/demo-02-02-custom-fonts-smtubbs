@@ -16,6 +16,7 @@ h2{
   font-family: "Playfair Display", serif;
   color: RGB(211, 169, 153);
   font-size: 22pt;
+  font-style: initial;
 }
 p{
   font-family: "Proza Libre", sans-serif;
